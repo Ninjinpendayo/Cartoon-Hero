@@ -1,0 +1,41 @@
+body{
+	margin:0;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	}
+
+header{
+	background-color: #BCF0F7;
+	text-align: center;
+	padding-top: 20px; 
+	padding-bottom: 20px;
+}
+
+h1, h2 {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+header h1 {
+	color: #289CAB;
+	font-size: 50px;
+
+}
+
+header img {
+	    border-radius: 100px;
+    border: 20px solid #289CAB;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+
+
+
